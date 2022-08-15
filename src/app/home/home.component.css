@@ -1,0 +1,34 @@
+.deutz {
+    width: 100px;
+    margin-left: 100px;
+}
+
+.fiat {
+    width: 250px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.ford {
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.landini {
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.massey {
+    width: 250px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.perkins {
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
