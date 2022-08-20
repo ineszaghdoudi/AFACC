@@ -24,6 +24,14 @@ export class AppComponent implements OnInit {
     this.router.navigate(['/about_us']);
   }
 
+  gotoLogin() {
+    this.router.navigate(['/login'])
+  }
+
+  gotoSignup() {
+    this.router.navigate(['/signup'])
+  }
+
   contactUs() {
     this.router.navigate(['/contact_us']);
   }
